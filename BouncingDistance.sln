@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BouncingDistance", "BouncingDistance.csproj", "{AB6E4E93-D1D5-4A22-A124-698B8E428B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6E4E93-D1D5-4A22-A124-698B8E428B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6E4E93-D1D5-4A22-A124-698B8E428B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6E4E93-D1D5-4A22-A124-698B8E428B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6E4E93-D1D5-4A22-A124-698B8E428B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48E74130-490B-4E01-A304-12D25D8B5E95}
+	EndGlobalSection
+EndGlobal

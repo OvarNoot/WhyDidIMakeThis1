@@ -1,0 +1,16 @@
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\bin\Debug\net5.0\BouncingDistance.exe
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\bin\Debug\net5.0\BouncingDistance.deps.json
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\bin\Debug\net5.0\BouncingDistance.runtimeconfig.json
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\bin\Debug\net5.0\BouncingDistance.runtimeconfig.dev.json
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\bin\Debug\net5.0\BouncingDistance.dll
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\bin\Debug\net5.0\ref\BouncingDistance.dll
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\bin\Debug\net5.0\BouncingDistance.pdb
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\obj\Debug\net5.0\BouncingDistance.csproj.AssemblyReference.cache
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\obj\Debug\net5.0\BouncingDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\obj\Debug\net5.0\BouncingDistance.AssemblyInfoInputs.cache
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\obj\Debug\net5.0\BouncingDistance.AssemblyInfo.cs
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\obj\Debug\net5.0\BouncingDistance.csproj.CoreCompileInputs.cache
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\obj\Debug\net5.0\BouncingDistance.dll
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\obj\Debug\net5.0\ref\BouncingDistance.dll
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\obj\Debug\net5.0\BouncingDistance.pdb
+C:\Users\Ova\Desktop\asdfsdf\IDK\asdfsdf\obj\Debug\net5.0\BouncingDistance.genruntimeconfig.cache

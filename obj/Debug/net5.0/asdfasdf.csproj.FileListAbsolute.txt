@@ -1,0 +1,16 @@
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\bin\Debug\net5.0\asdfasdf.exe
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\bin\Debug\net5.0\asdfasdf.deps.json
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\bin\Debug\net5.0\asdfasdf.runtimeconfig.json
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\bin\Debug\net5.0\asdfasdf.runtimeconfig.dev.json
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\bin\Debug\net5.0\asdfasdf.dll
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\bin\Debug\net5.0\ref\asdfasdf.dll
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\bin\Debug\net5.0\asdfasdf.pdb
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\obj\Debug\net5.0\asdfasdf.csproj.AssemblyReference.cache
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\obj\Debug\net5.0\asdfasdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\obj\Debug\net5.0\asdfasdf.AssemblyInfoInputs.cache
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\obj\Debug\net5.0\asdfasdf.AssemblyInfo.cs
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\obj\Debug\net5.0\asdfasdf.csproj.CoreCompileInputs.cache
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\obj\Debug\net5.0\asdfasdf.dll
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\obj\Debug\net5.0\ref\asdfasdf.dll
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\obj\Debug\net5.0\asdfasdf.pdb
+C:\Users\Ova\Desktop\asdfsdf\asdfasdf\asdfasdf\obj\Debug\net5.0\asdfasdf.genruntimeconfig.cache
